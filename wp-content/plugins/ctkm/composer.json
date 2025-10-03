@@ -1,0 +1,10 @@
+{
+  "name": "company/ctkm",
+  "description": "CTKM Plugin - Campaign Manager (OOP)",
+  "autoload": {
+    "psr-4": {
+      "CTKM\\": "src/"
+    }
+  },
+  "require": {}
+}
