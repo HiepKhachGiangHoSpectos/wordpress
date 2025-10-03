@@ -1,0 +1,10 @@
+/.idea
+wp-config.php
+.user.ini
+/wp-content/uploads
+/wp-content/plugins/wordfence
+/wp-content/wflogs
+/wp-content/cronlogs
+/wp-content/notification_history.log
+.htaccess
+.DS_Store

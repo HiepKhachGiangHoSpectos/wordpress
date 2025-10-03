@@ -20,15 +20,19 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+// trung voi WORDPRESS_DB_NAME
 define( 'DB_NAME', 'database_name_here' );
 
 /** Database username */
+// trung voi WORDPRESS_DB_USER
 define( 'DB_USER', 'username_here' );
 
 /** Database password */
+// trung voi WORDPRESS_DB_PASSWORD
 define( 'DB_PASSWORD', 'password_here' );
 
 /** Database hostname */
+// trung voi service name trong docker-compose (khong phai container_name)
 define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
